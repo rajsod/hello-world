@@ -1,3 +1,5 @@
 # hello-world
-this is a readme! so it follows that you are reading this! interesting 
-i'm unsure of what the buttons on the side are.... what are tabs
+the github guide says that i should write about myself!
+## hi there
+i'm assuming that this uses markdown, which is probably popular for coding. fun!
+##### how many hashtags can i use
